@@ -1,0 +1,4 @@
+Paraphrase a given piece of text to make it unique and original.
+Original content: [What is the content that needs to be paraphrased?].
+Purpose: [What is the purpose of the paraphrasing? E.g. to avoid plagiarism, to simplify language, etc.].
+Length limit: [Enter the desired length of the paraphrased content in words.]
