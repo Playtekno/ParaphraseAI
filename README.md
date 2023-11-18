@@ -8,11 +8,7 @@ Paraphraser is a method that can be used to rephrase a given piece of text to ma
     Generating different creative text formats of text content, like poems, code, scripts, musical pieces, email, letters, etc.
     
 The prompt:
-
-Paraphrase a given piece of text to make it unique and original.
-Original content: [What is the content that needs to be paraphrased?]
-Purpose: [What is the purpose of the paraphrasing? E.g. to avoid plagiarism, to simplify language, etc.].
-Length limit: [Enter the desired length of the paraphrased content in words.]
+https://github.com/Playtekno/ParaphraseAI/blob/main/prompt.txt
 
 Usage
 To use Paraphraser, simply paste the text you want to paraphrase into the input box. The paraphrased text will then appear in the output box.
